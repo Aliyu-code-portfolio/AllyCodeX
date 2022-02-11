@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AllyCodeX
-- 👀 I’m interested in React native, ui/ux, and machine learning
-- 🌱 I’m currently learning machine learning
+- 👀 I’m interested in React native, ui/ux, and Artificial Intelligence
+- 🌱 I’m currently learning  Artificial Intelligence
 - 💞️ I’m looking to collaborate on a huge react native project
 - 📫 How to reach me:  aliyuabdullahi074@gmail.com
 
